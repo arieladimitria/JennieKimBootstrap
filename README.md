@@ -18,6 +18,7 @@
 *** See the bottom of this document for the declaration of the reference variables
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
+*** https://github.com/othneildrew/Best-README-Template
 -->
 
 
@@ -25,7 +26,7 @@
 <!-- ABOUT THE PROJECT -->
 
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/arieladimitria">
     <img src="https://i.imgur.com/0J2mpIV.png" alt="Printscreen" width="768" height="432">
   </a>
 
