@@ -26,7 +26,7 @@
 
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://i.imgur.com/0J2mpIV.png" alt="Logo" width="990" height="540">
+    <img src="https://i.imgur.com/0J2mpIV.png" alt="Logo" width="960" height="540">
   </a>
 
 Landingpage project for Generation Brasil Bootcamp using HTML, Bootstrap and JavaScript.
